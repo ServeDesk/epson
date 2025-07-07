@@ -3,7 +3,7 @@ Get the Latest Epson Printer Drivers – Easy & Fast Setup
 
 .. image:: get.png
    :alt: Epson Printer Drivers
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://pre.im/?1QC8rUorjz4YXYQ9xuVYzL6eLRAgVCSfnDExfu4XlwCUubaYjaCn7kT0G3gqjCcN8ytuMt1iVG9jYTgCtrVM
 
 Setting up an Epson printer? Whether you're using an EcoTank, WorkForce, or Expression model, the key to a smooth printing experience starts with the right Epson printer drivers. In this guide, we’ll help you download, install, and update Epson printer drivers effortlessly—no tech degree needed!
 
